@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  HelloWorld.cc
 //  Homework1
 //
 //  Created by Eric Franco on 9/29/15.
@@ -8,8 +8,10 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+using namespace std;
+
+int main(){
+    cout << "Hello World!\n";
     return 0;
 }
