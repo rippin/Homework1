@@ -17,9 +17,6 @@ int main(){
         string s;
         cout << "\nEnter a string: ";
         cin >> s;
-        if (s == "q"){
-            return 0;
-        }
         Stack stack;
         const char * c = s.c_str();
         //push into stack

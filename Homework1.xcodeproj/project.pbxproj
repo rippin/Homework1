@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		31E6FF7A1BBBA8F200BD4D1C /* ReversePrint.cc in Sources */ = {isa = PBXBuildFile; fileRef = 31E6FF791BBBA8F200BD4D1C /* ReversePrint.cc */; };
 		31E6FF7C1BBBB38D00BD4D1C /* Stack.cc in Sources */ = {isa = PBXBuildFile; fileRef = 31E6FF7B1BBBB38D00BD4D1C /* Stack.cc */; };
+		31E6FF7E1BBC67FE00BD4D1C /* ReversePrintModified.cc in Sources */ = {isa = PBXBuildFile; fileRef = 31E6FF7D1BBC67FE00BD4D1C /* ReversePrintModified.cc */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,8 +26,8 @@
 /* Begin PBXFileReference section */
 		31E6FF631BBB7DA700BD4D1C /* Homework1 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Homework1; sourceTree = BUILT_PRODUCTS_DIR; };
 		31E6FF731BBB7FEC00BD4D1C /* Stack.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = Stack.h; sourceTree = "<group>"; };
-		31E6FF791BBBA8F200BD4D1C /* ReversePrint.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ReversePrint.cc; sourceTree = "<group>"; };
 		31E6FF7B1BBBB38D00BD4D1C /* Stack.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Stack.cc; sourceTree = "<group>"; };
+		31E6FF7D1BBC67FE00BD4D1C /* ReversePrintModified.cc */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ReversePrintModified.cc; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,7 +62,7 @@
 			children = (
 				31E6FF7B1BBBB38D00BD4D1C /* Stack.cc */,
 				31E6FF731BBB7FEC00BD4D1C /* Stack.h */,
-				31E6FF791BBBA8F200BD4D1C /* ReversePrint.cc */,
+				31E6FF7D1BBC67FE00BD4D1C /* ReversePrintModified.cc */,
 			);
 			path = Homework1;
 			sourceTree = "<group>";
@@ -124,7 +124,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				31E6FF7C1BBBB38D00BD4D1C /* Stack.cc in Sources */,
-				31E6FF7A1BBBA8F200BD4D1C /* ReversePrint.cc in Sources */,
+				31E6FF7E1BBC67FE00BD4D1C /* ReversePrintModified.cc in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
