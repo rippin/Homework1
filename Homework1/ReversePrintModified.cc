@@ -34,6 +34,7 @@ int main(){
         cout << "\nEnter a string: ";
         cin >> s;
         if (s == KEYS){
+            cout << "Bye\n";
             exit(1);
         }
         Stack stack;
