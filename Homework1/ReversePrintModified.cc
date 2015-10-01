@@ -1,6 +1,6 @@
 //
 //  ReversePrintModified.cc
-//  Homework1
+        //  Homework1
 //
 //  Created by Eric Franco on 9/30/15.
 //  Copyright (c) 2015 Eric Franco. All rights reserved.
@@ -21,7 +21,8 @@
 
 #include <iostream>
 #include <string>
-#include "Stack.cc"
+#include "Stack.h"
+#include <cstdlib>
 
 using namespace std;
 
